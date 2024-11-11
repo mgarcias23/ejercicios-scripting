@@ -6,3 +6,10 @@
 2. Descomprime el contenido descargado mediante el comando **unzip**
 
 3. Completa los diferentes ejercicios
+   
+Se propone el siguiente orden:
+- verificar_archivo.sh
+- contar_lineas.sh
+- leer_archivo.sh
+- crear_archivo.sh
+- verificar_archivo_vacio.sh
